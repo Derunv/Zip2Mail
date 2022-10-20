@@ -1,0 +1,11 @@
+Zip2Mail
+Version 1.0.0 
+    
+Jul 13 2014 20:07:38
+
+Created by Derun Vitalii.
+
+	http://www.derun.pp.ua
+Autoit scripting language
+
+	https://www.autoitscript.com
